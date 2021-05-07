@@ -1,7 +1,7 @@
 # Firmware
 This is a repository I made to share compiled Marlin 2.0.8 firmware for the Ender 3 pro with creality 4.2.7 board.
 
-This firmware was compiled from the standard settins within from the marin Github repository for the ender 3 pro 4.2.7 board. I made no edits to the firmware perameters. This is for a stock ender3 pro with the upgraded 4.2.7 main board.
+This firmware was compiled from the standard settings from the marin Github repository for the ender 3 pro 4.2.7 board. I made no edits to the firmware perameters. This is for a stock ender3 pro with the upgraded 4.2.7 main board.
 
 I made this due to the frustraion with the copiled firmware provided by creality. Their firmware which is marked "Marlin 2.0" is in actuality Marlin 1.0 and cannot support newer features such as G02 and G03 arc commands. 
 
